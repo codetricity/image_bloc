@@ -19,6 +19,7 @@ For repitition.
 1. put Column in MaterialApp. 
     1. Top of Column is random image from https://picsum.photos/
     1. bottom of column is a row with previous and next buttons
+    1. set space evenly on row and column 
 
 ### Create template bloc files
 
