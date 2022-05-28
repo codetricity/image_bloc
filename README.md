@@ -15,7 +15,6 @@ For repitition.
 ### Create new project for Bloc
 
 1. New Project: create new project, add flutter_bloc, equatable
-1. delete all code below runApp, create new StatefulWidget with MaterialApp
 1. put Column in MaterialApp. 
     1. Top of Column is random image from https://picsum.photos/
     1. bottom of column is a row with previous and next buttons
